@@ -1,0 +1,1120 @@
+# Webalizer V2.23-05 Incremental Data - 05/27/2017 07:13:19
+2017 5 27 7 13 19
+3146 2637 124 215 39 51 29542921 1057 226 0
+8 3 480 1 27
+1338 1041 10690927 25 406 22
+68 50 734154 13 38 11
+156 148 1607817 10 57 8
+54 46 706693 7 17 5
+73 66 616648 12 23 11
+56 52 458829 6 20 7
+40 33 519155 6 15 3
+56 51 650135 10 19 7
+83 77 972420 12 24 8
+51 44 631808 9 18 6
+69 60 560256 11 27 8
+54 49 448905 10 21 7
+100 94 1145405 17 30 16
+73 67 474683 12 24 11
+35 29 522278 6 17 4
+161 144 1527535 12 63 9
+39 33 454251 9 15 4
+58 45 561896 10 19 8
+113 98 1260091 15 28 10
+90 74 822731 10 30 12
+67 58 876432 10 36 7
+56 51 548649 10 20 9
+60 53 637549 15 24 11
+56 48 602195 11 18 6
+46 44 346182 12 15 8
+50 46 563228 11 18 5
+44 36 602069 8 15 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+30 30 93036 6
+60 59 486566 8
+33 32 42535 9
+32 30 41016 7
+826 655 14903936 385
+30 30 38687 7
+61 52 416975 24
+80 76 613966 21
+37 36 269282 9
+139 137 1390257 62
+32 31 89603 14
+26 25 13610 8
+218 204 1949529 81
+539 414 3169696 109
+228 157 1059707 102
+20 20 7181 6
+225 161 1368461 71
+166 165 1542266 25
+90 74 523601 31
+35 32 294350 14
+36 36 101329 8
+52 49 76099 9
+86 78 675165 29
+65 54 376068 12
+0
+0
+0
+2637
+0
+0
+0
+0
+0
+0
+0
+69
+5
+0
+274
+0
+0
+0
+0
+0
+42
+105
+10
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/feed/atom/
+0 4 0 54108 0 0
+/green-tea-blueberry-and-banana/
+0 23 0 337492 2 2
+/wp-content/plugins/siteorigin-panels/js/styling-25.min.js
+0 1 0 380 0 0
+/tag/quickeasy/
+0 15 0 290325 0 0
+/wp-content/themes/vantage/icons/vantage-icons.ttf
+0 1 0 735 0 0
+/wp-content/themes/vantage/images/sprites/gallery-prev.png
+0 12 0 3267 0 0
+/search/1/feed/rss2/
+0 52 0 1850340 0 22
+/testimonials/
+0 78 0 719475 2 2
+/sitemap.xml
+0 41 0 24661 0 0
+/wp-content/themes/vantage/js/html5.min.js
+0 1 0 2545 0 0
+/wp-content/uploads/2017/04/09-tropical-papaya-COMP-1103153-300x225.jpg
+0 6 0 55860 0 0
+/wp-admin/update-core.php
+0 2 0 28196 0 0
+/tag/vitaminc/
+0 12 7165064697990440809 226152 0 0
+/wp-content/themes/vantage/js/jquery.touchSwipe.min.js
+0 23 14051568607284245042 81364 0 0
+/wp-content/themes/vantage/fontawesome/fonts/fontawesome-webfont.svg
+0 1 3543616503552045933 119613 0 0
+/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js
+0 10 33042958008934764 90598 0 0
+/wp-content/plugins/wordpress-seo/css/adminbar-460.min.css
+0 4 97855532761397 0 0 0
+/wp-content/plugins/so-widgets-bundle/widgets/button/css/style.css
+0 2 7309955088987874153 349 0 0
+/wp-content/plugins/so-widgets-bundle/js/slider/jquery.slider.min.js
+0 3 12586016 4801 0 0
+/wp-content/plugins/disqus-comment-system/media/js/count.js
+0 24 0 10938 0 0
+/banana-blueberry-soy-smoothie/
+0 23 0 328010 5 2
+/wp-content/plugins/wordpress-seo/css/edit-page-460.min.css
+0 1 0 0 0 0
+/wp-content/themes/vantage/inc/mobilenav/js/mobilenav.min.js
+0 29 0 37704 0 0
+/wp-content/plugins/wordpress-seo/css/admin-global-460.min.css
+0 1 0 0 0 0
+/wp-content/uploads/2017/04/02-orange-creamsicle-TS-457099519_0.jpg
+0 3 0 156078 0 0
+/wp-content/uploads/2017/04/cropped-logoman-192x192.png
+0 13 0 297924 0 0
+/wp-admin/load-scripts.php
+0 4 0 180693 0 0
+/wp-content/plugins/wordpress-seo/css/featured-image-460.min.css
+0 1 0 0 0 0
+/wp-content/plugins/so-widgets-bundle/base/inc/fields/css/media-field.css
+0 1 0 0 0 0
+/wp-json/
+0 12 0 627516 0 0
+/sitemap-pt-ml-slide-2017-04.xml
+0 11 0 5363 0 0
+/wp-admin/post.php
+0 1 0 70392 0 0
+/wp-content/plugins/optinmonster/assets/css/images/dashboard-icon.png
+0 1 0 19478 0 0
+/sitemap-pt-customize_changeset-2017-04.xml
+0 11 0 5371 0 0
+/category/workout/
+0 11 0 229377 0 0
+/wp-content/themes/vantage/icons/vantage-icons.woff
+0 136 0 187680 0 0
+/wp-content/plugins/w3-total-cache/pub/img/w3tc-sprite-admin-bar.png
+0 6 0 1348 0 0
+/wp-includes/wlwmanifest.xml
+0 8 0 8360 0 0
+/webmail
+0 27 0 242568 0 1
+/wp-content/themes/vantage/images/retina/gallery-next.png
+0 4 0 462 0 0
+/berry-good-workout-smoothie/feed/
+0 1 0 963 0 0
+/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/dist/jetpack-onboarding.js
+0 1 0 0 0 0
+/google2a8b101cdc182d79.html
+0 1 0 70 1 0
+/wp-admin/
+0 2 0 40825 1 0
+/wp-content/plugins/all-in-one-seo-pack/css/aiosp_admin.css
+0 1 0 0 0 0
+/wp-content/plugins/disqus-comment-system/readme.txt
+0 27 0 426195 0 0
+/wp-content/plugins/optinmonster/assets/fonts/archie.woff
+0 12 0 34080 0 0
+/tag/swolebrahamlincoln/
+0 10 0 181270 0 0
+/wp-content/plugins/so-widgets-bundle/base/js/admin.min.js
+0 1 0 0 0 0
+/wp-admin/load-styles.php
+0 3 0 202729 0 0
+/wp-content/plugins/w3-total-cache/pub/img/w3tc-sprite.png
+0 2 0 1694 0 0
+/wp-content/plugins/all-in-one-seo-pack//js/quickedit_functions.js
+0 1 0 0 0 0
+/wp-content/plugins/siteorigin-panels/css/images/dropdown-pointer.png
+0 1 0 0 0 0
+/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css
+0 36 0 80306 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/css/front-legacy.css
+0 1 0 16629 0 0
+/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/dist/vendor.bundle.js
+0 1 0 0 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-featured-image-460.min.js
+0 1 0 0 0 0
+/wp-content/plugins/so-widgets-bundle/base/css/admin.css
+0 1 0 0 0 0
+/favicon.ico
+0 2 0 0 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/styling-25.min.js/feed/rss2/
+0 1 0 1508 0 0
+/wp-content/themes/vantage/images/sprites/more-icon.png
+0 12 0 1188 0 0
+/wp-content/plugins/siteorigin-panels/css/icons/panels-icons.woff
+0 1 0 2680 0 0
+/wp-content/plugins/siteorigin-panels/learn/img/play.svg
+0 1 0 2076 0 0
+/wp-includes/css/admin-bar.min.css
+0 4 0 0 0 0
+/wp-content/themes/vantage/js/jquery.fitvids.min.js
+0 31 0 29719 0 0
+/wp-content/plugins/disqus-comment-system/media/js/upload.js
+0 1 0 1095 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-metabox-460.min.js
+0 1 0 0 0 0
+/wp-admin/admin.php
+0 1 0 13779 0 0
+/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/dist/jetpack-onboarding.css
+0 1 0 0 0 0
+/wp-content/themes/vantage/images/retina/gallery-prev.png
+0 4 0 435 0 0
+/wp-content/plugins/so-widgets-bundle/base/inc/fields/js/media-field.min.js
+0 1 0 0 0 0
+/wp-content/themes/vantage/inc/mobilenav/css/mobilenav.css
+0 37 0 41412 0 0
+/wp-content/themes/vantage/js/jquery.theme-main.min.js
+0 27 0 74882 0 0
+/wp-content/plugins/wordpress-seo/css/snippet-460.min.css
+0 1 0 0 0 0
+/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/en.js
+0 1 0 0 0 0
+/wp-content/uploads/2017/04/13-berry-good-COMP-3298406-700x200.jpg
+0 17 0 274848 0 0
+/wp-content/plugins/so-widgets-bundle/base/css/post-selector.css
+0 1 0 0 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-media-460.min.js
+0 1 0 0 0 0
+/wp-content/plugins/siteorigin-panels/css/front-flex.css
+0 20 0 6544 0 0
+/wp-content/plugins/siteorigin-panels/css/admin.css
+0 1 0 0 0 0
+/wp-content/plugins/all-in-one-seo-pack/css/modules/aioseop_module.css
+0 1 0 0 0 0
+/wp-content/uploads/2017/04/13-berry-good-COMP-3298406-300x225.jpg
+0 8 0 117173 0 0
+/orange-dream-creamsicle/
+0 23 0 342323 4 2
+/wp-content/themes/vantage/icons/vantage-icons.svg
+0 1 0 539 0 0
+/wp-admin/update.php
+0 1 0 6573 0 0
+/wp-content/plugins/so-widgets-bundle/css/slider/slider.css
+0 3 0 7740 0 0
+/wp-admin/edit.php
+0 6 0 104140 0 0
+/wp-content/plugins/ml-slider/readme.txt
+0 27 0 632185 0 0
+/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css
+0 13 0 78599 0 0
+/wp-content/plugins/w3-total-cache/readme.txt
+0 27 0 1040607 0 0
+/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-flat-702453c722c2.css
+0 4 0 7778 0 0
+/wp-content/uploads/siteorigin-widgets/sow-button-wire-b6800de613a7.css
+0 2 0 388 0 0
+/tag/swolebrahamlincoln/feed/
+0 2 0 8085 0 0
+/tag/yumyum/
+0 10 0 190250 0 0
+/wp-includes/css/dashicons.min.css
+0 3 0 0 0 0
+/wp-includes/js/tinymce/tinymce.min.js
+0 1 0 0 0 0
+/category/workout/feed/
+0 1 0 10025 0 0
+/wp-content/plugins/all-in-one-seo-pack/images/cog_edit.png
+0 1 0 0 0 0
+/wp-content/plugins/so-widgets-bundle/icons/fontawesome/style.css
+0 6 0 3767 0 0
+/wp-includes/js/comment-reply.min.js
+0 14 0 9024 0 0
+/wp-content/plugins/wordpress-seo/css/wpseo-dismissible-460.min.css
+0 1 0 0 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/styling-25.min.js
+0 1 0 16629 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 18 0 80364 0 0
+/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js
+0 1 0 0 0 0
+/wp-content/uploads/2017/04/02-orange-creamsicle-TS-457099519_0-700x200.jpg
+0 17 3545794356121251382 280560 0 0
+/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/css/welcome-panel.css
+0 1 7233116778580226350 0 0 0
+/tag/quickeasy/feed/
+0 2 25059706917697585 8970 0 0
+/wp-content/plugins/so-widgets-bundle/base/inc/fields/js/tinymce-field.min.js
+0 1 7867340375392871795 0 0 0
+/wp-content/plugins/googleanalytics/js/googleanalytics_page.js
+0 1 3832845857380630528 2536 0 0
+/wp-content/themes/vantage/js/selectivizr.min.js
+0 1 3330188934050217984 21 0 0
+/wp-content/plugins/googleanalytics/css/ga_additional.css
+0 1 0 0 0 0
+/wp-content/plugins/googleanalytics/css/googleanalytics.css
+0 1 0 0 0 0
+/wp-content/plugins/ml-slider/assets/fonts/metaslider.ttf
+0 12 0 17748 0 0
+/sitemap.html
+0 5 0 7287 5 4
+/wp-content/plugins/simple-page-ordering/simple-page-ordering.js
+0 1 0 0 0 0
+/category/dessert/
+0 12 0 209066 0 0
+/wp-content/plugins/so-widgets-bundle/base/js/posts-selector.min.js
+0 1 0 0 0 0
+/wp-content/plugins/so-widgets-bundle/widgets/social-media-buttons/js/social-media-buttons-admin.js
+0 1 0 0 0 0
+/wp-content/plugins/googleanalytics/js/googleanalytics_dashboard.js
+0 1 0 0 0 0
+/wp-content/plugins/wordpress-seo/css/kb-search-460.min.css
+0 1 0 0 0 0
+/wp-content/plugins/wordpress-seo/images/Yoast_SEO_Icon.svg
+0 1 0 457 0 0
+/wp-content/themes/vantage/style.css
+0 34 0 883068 0 0
+/wp-login.php
+0 3 0 3660 0 0
+/wp-content/themes/vantage/images/retina/more-icon.png
+0 4 0 158 0 0
+/wp-content/plugins/share-this/css/style.css
+0 28 0 4136 0 0
+/wp-includes/js/jquery/jquery.js
+0 26 0 1503868 0 0
+/img-sys/js/respond.min.js
+0 1 0 4591 0 0
+/wp-content/plugins/so-widgets-bundle/base/inc/fields/css/icon-field.css
+0 1 0 0 0 0
+/wp-content/plugins/wordpress-seo/js/dist/select2/select2.full.min.js
+0 1 0 0 0 0
+/wp-content/plugins/googleanalytics/js/googleanalytics.js
+0 1 0 0 0 0
+/tag/vitaminc/feed/
+0 2 0 7970 0 0
+/wp-includes/js/wp-embed.min.js
+0 26 0 20196 0 0
+/wp-content/uploads/2017/04/09-tropical-papaya-COMP-1103153.jpg
+0 2 0 74006 0 0
+/wp-content/plugins/siteorigin-panels/js/siteorigin-panels-25.min.js
+0 1 0 0 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 21 0 126428 0 0
+/wp-content/plugins/ml-slider/assets/metaslider/public.css
+0 37 0 37563 0 0
+/wp-content/themes/vantage/fontawesome/fonts/fontawesome-webfont.woff2
+0 54 0 3875040 0 0
+/wp-content/uploads/2017/04/02-orange-creamsicle-TS-457099519_0-300x225.jpg
+0 6 0 64720 0 0
+/wp-content/plugins/so-widgets-bundle/base/inc/fields/css/tinymce-field.css
+0 1 0 0 0 0
+/wp-content/themes/vantage/images/sprites/gallery-next.png
+0 12 0 3201 0 0
+/wp-content/themes/vantage/fontawesome/fonts/fontawesome-webfont.woff
+0 2 0 180288 0 0
+/wp-content/plugins/googleanalytics/css/ga_modal.css
+0 1 0 0 0 0
+/wp-includes/images/spinner.gif
+0 2 0 8324 0 0
+/wp-content/plugins/disqus-comment-system/media/js/
+0 1 0 679 0 0
+/wp-content/plugins/wpforms-lite/assets/js/admin-editor.js
+0 1 0 0 0 0
+/xmlrpc.php
+0 8 0 6688 0 0
+/search/1/
+0 6 0 210012 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-post-scraper-460.min.js
+0 1 0 0 0 0
+/wp-content/plugins/siteorigin-panels/readme.txt
+0 27 0 494829 0 0
+/banana-blueberry-soy-smoothie/feed/
+0 1 0 975 0 0
+/orange-dream-creamsicle/feed/
+0 2 0 2367 0 1
+/wp-content/uploads/2017/04/09-tropical-papaya-COMP-1103153-700x200.jpg
+0 17 0 201960 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 0 1636 0 0
+/wp-content/themes/vantage/fontawesome/fonts/fontawesome-webfont.ttf
+0 1 0 90351 0 0
+/wp-content/uploads/2017/04/13-berry-good-COMP-3298406.jpg
+0 6 0 184917 0 0
+/search/1/a,c.defer
+0 3 0 33926 0 0
+/sitemap-misc.xml
+0 26 0 15398 0 0
+/wp-content/uploads/2017/04/03-green-tea-blueberry-banana-COMP-3034309-700x200.jpg
+0 17 0 235656 0 0
+/wp-content/uploads/2017/04/Smoothie_Dash_Logo.png
+0 17 0 1990508 0 0
+/wp-content/plugins/wordpress-seo/css/yst_seo_score-460.min.css
+0 1 0 0 0 0
+/img-sys/js/modernizr-2.6.2.min.js
+0 1 0 15153 0 0
+/wp-content/plugins/siteorigin-panels/css/front.css
+0 2 0 730 0 0
+/
+0 398 0 2332115 188 92
+/wp-content/plugins/wordpress-seo/css/dist/select2/select2.min.css
+0 1 0 0 0 0
+/wp-content/uploads/2017/04/03-green-tea-blueberry-banana-COMP-3034309.jpg
+0 2 0 79606 0 0
+/wp-content/themes/vantage/fontawesome/css/font-awesome.css
+0 30 0 322000 0 0
+/wp-content/uploads/2017/04/03-green-tea-blueberry-banana-COMP-3034309-300x225.jpg
+0 6 0 60520 0 0
+/contact-us/
+0 32 0 450295 5 5
+/wp-content/uploads/siteorigin-widgets/sow-slider-default-abf3e628296a.css
+0 3 0 455 0 0
+/wp-content/plugins/so-widgets-bundle/base/inc/fields/css/measurement-field.css
+0 1 0 0 0 0
+/wp-content/plugins/siteorigin-panels/learn/js/learn.min.js
+0 1 0 0 0 0
+/wp-content/plugins/disqus-comment-system/media/js/dashboard.js
+0 2 0 785 0 0
+/comments/feed/
+0 11 0 33781 0 0
+/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js
+0 33 0 76319 0 0
+/wp-content/plugins/google-sitemap-generator/sitemap.xsl
+0 1 0 6583 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/styling-25.min.js/
+0 1 0 16629 0 0
+/sitemap-pt-post-2017-04.xml
+0 33 0 21888 0 0
+/wp-content/plugins/simple-page-ordering/simple-page-ordering.css
+0 1 0 0 0 0
+/sitemap-pt-page-2017-04.xml
+0 39 0 23945 0 0
+/wp-content/plugins/wpforms-lite/assets/js/wpforms.js
+0 11 0 83192 0 0
+/berry-good-workout-smoothie/
+0 61 0 620942 6 2
+/wp-includes/js/admin-bar.min.js
+0 3 0 0 0 0
+/wp-content/themes/vantage/js/color-picker.js
+0 1 0 0 0 0
+/wp-content/plugins/ml-slider/assets//metaslider/matchalabs.png
+0 1 0 0 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/css/front-legacy.css/feed/rss2/
+0 1 0 1508 0 0
+/wp-content/plugins/so-widgets-bundle/base/inc/fields/js/icon-field.min.js
+0 1 0 0 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/a,c.defer
+0 5 0 68462 0 0
+/wp-content/plugins/wpforms-lite/assets/css/admin-menu.css
+0 1 0 0 0 0
+/wp-content/plugins/disqus-comment-system/media/js/disqus.js
+0 13 0 10230 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-replacevar-plugin-460.min.js
+0 1 0 0 0 0
+/wp-content/plugins/ml-slider/assets/metaslider/global.css
+0 2 0 274 0 0
+/wp-content/plugins/wordpress-seo/css/metabox-460.min.css
+0 1 0 0 0 0
+/category/dessert/feed/
+0 1 0 4150 0 0
+/author/smoothiedash/
+0 5 0 143470 0 0
+/robots.txt
+0 52 0 5693 0 0
+/feed/
+0 14 0 179020 0 0
+/wp-content/themes/vantage/js/jquery.flexslider.min.js
+0 27 0 242248 0 0
+/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider-min.js
+0 35 0 736093 0 0
+/tag/yumyum/feed/
+0 1 0 4144 0 0
+/wp-cron.php
+0 305 0 6100 0 0
+/wp-content/plugins/all-in-one-seo-pack/js/modules/aioseop_module.js
+0 1 0 0 0 0
+/wp-content/plugins/so-widgets-bundle/js/jquery.cycle.min.js
+0 2 0 6819 0 0
+/wp-content/plugins/wpforms-lite/assets/fonts/wpforms-menu.woff
+0 12 0 12576 0 0
+/wp-admin/admin-ajax.php
+0 110 0 13271 0 0
+/sitemap-pt-wpforms-2017-04.xml
+0 13 0 6337 0 0
+/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/img/jpo-themes.png
+0 1 0 0 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-shortcode-plugin-460.min.js
+0 1 0 0 0 0
+/wp-content/plugins/disqus-comment-system/media/js/admin.js
+0 1 0 4295 0 0
+/wp-content/uploads/2017/04/cropped-logoman-32x32.png
+0 9 0 21294 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-global-460.min.js
+0 1 0 0 0 0
+/wp-content/plugins/all-in-one-seo-pack/images/shield-sprite-16.png
+0 2 0 0 0 0
+/recipes/
+0 87 0 939810 3 0
+/wp-content/plugins/siteorigin-panels/learn/css/learn.css
+0 1 0 0 0 0
+/wp-content/plugins/wordpress-seo/css/dashboard-460.min.css
+0 1 0 0 0 0
+/img-sys/css/style.min.css
+0 2 0 9318 0 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-40-77-167-152.search.msn.com
+0 1 1 109 0 0
+-
+msnbot-157-55-39-0.search.msn.com
+0 3 3 327 0 0
+-
+msnbot-157-55-39-223.search.msn.com
+0 4 4 2154 1 1495323640
+/
+msnbot-207-46-13-67.search.msn.com
+0 1 1 664 0 0
+-
+msnbot-40-77-167-87.search.msn.com
+0 4 4 8486 2 1494639571
+/
+msnbot-40-77-167-164.search.msn.com
+0 4 4 436 0 0
+-
+crawl-66-249-65-195.googlebot.com
+0 5 5 15335 2 1495742858
+/banana-blueberry-soy-smoothie/
+msnbot-157-55-39-45.search.msn.com
+0 2 2 980 1 1495229301
+/
+c8.11.c1ad.ip4.static.sl-reverse.com
+0 1 1 22303 1 1493631161
+/orange-dream-creamsicle/
+crawl-66-249-65-201.googlebot.com
+0 34 34 60114 14 1495529961
+/
+crawl-66-249-73-59.googlebot.com
+0 63 62 218759 15 1495305455
+/recipes/
+placeholder.sitelock.com
+0 172 138 3412538 6 1495167453
+/search/1/feed/rss2/
+msnbot-157-55-39-18.search.msn.com
+0 1 1 109 0 0
+-
+tor-exit.xshells.net
+0 1 1 7246 1 1495629289
+/
+69.58.178.56
+0 14 12 234279 1 1493754100
+/category/workout/
+rate-limited-proxy-66-249-90-223.google.com
+0 1 0 5679 1 1494645240
+-
+li1528-165.members.linode.com
+0 2 1 7266 1 1494511603
+/
+msnbot-207-46-13-104.search.msn.com
+0 14 13 12486 6 1495105581
+/
+msnbot-207-46-13-121.search.msn.com
+0 1 1 585 0 0
+-
+172.58.111.29
+0 36 32 492853 1 1493624767
+/recipes/
+tor-exit.critical.cat
+0 1 1 7245 1 1495475009
+/
+msnbot-207-46-13-165.search.msn.com
+0 3 3 1814 1 1494969723
+/
+ec2-54-184-2-245.us-west-2.compute.amazonaws.com
+0 1 1 25187 1 1493698904
+/
+msnbot-157-55-39-24.search.msn.com
+0 2 2 218 0 0
+-
+ns3025334.ip-149-202-72.eu
+0 1 1 7245 1 1493796422
+/
+ec2-54-218-199-191.us-west-2.compute.amazonaws.com
+0 3 0 535 1 1493699569
+/wp-admin/
+146.185.144.64
+0 1 1 7246 1 1495173826
+/
+msnbot-207-46-13-81.search.msn.com
+0 2 2 1079 0 0
+-
+ec2-54-184-22-168.us-west-2.compute.amazonaws.com
+0 2 0 226 1 1493706591
+/wp-admin/
+rate-limited-proxy-66-249-90-222.google.com
+0 1 1 70 1 1494645243
+/google2a8b101cdc182d79.html
+msnbot-207-46-13-151.search.msn.com
+0 1 1 617 1 1495794528
+/
+lh28409.voxility.net
+0 1 1 7245 1 1495513894
+/
+crawl-66-249-65-193.googlebot.com
+0 32 32 22707 10 1495524944
+/sitemap.html
+150-70-173-56.trendmicro.com
+0 1 1 25187 1 1494683109
+/
+msnbot-40-77-167-155.search.msn.com
+0 4 4 436 0 0
+-
+msnbot-40-77-167-56.search.msn.com
+0 4 4 2151 1 1494449560
+/
+msnbot-40-77-167-85.search.msn.com
+0 5 5 8626 3 1495685341
+/banana-blueberry-soy-smoothie/
+mymapps.com
+0 2 1 25168 1 1494411059
+/
+65.19.167.130
+0 1 1 7245 1 1495492406
+/
+crawl-66-249-73-31.googlebot.com
+0 1 1 665 0 0
+-
+ec2-54-190-156-60.us-west-2.compute.amazonaws.com
+0 2 1 24349 1 1493866019
+/berry-good-workout-smoothie/
+crawl-66-249-73-6.googlebot.com
+0 2 2 1280 2 1494087119
+/
+msnbot-40-77-167-43.search.msn.com
+0 14 14 13830 3 1494880012
+/banana-blueberry-soy-smoothie/
+msnbot-207-46-13-172.search.msn.com
+0 6 6 10509 1 1494318699
+/recipes/
+45.55.224.77
+0 1 1 7258 1 1494681331
+/
+ip68-8-16-93.sd.sd.cox.net
+0 100 87 1047276 1 1494937669
+/recipes/
+ec2-54-165-132-164.compute-1.amazonaws.com
+0 1 1 25168 1 1495542690
+/
+msnbot-40-77-167-62.search.msn.com
+0 1 1 581 0 0
+-
+spider-11.lipperhey.com
+0 16 14 283735 1 1495405304
+/
+msnbot-157-55-39-182.search.msn.com
+0 3 3 1818 1 1494792152
+/
+rrcs-97-77-48-34.sw.biz.rr.com
+0 39 39 497617 1 1493661026
+/recipes/
+utdpat241065.utdallas.edu
+0 157 156 1650163 2 1493816113
+/
+ec2-184-72-204-92.compute-1.amazonaws.com
+0 33 33 445318 1 1495158789
+/
+msnbot-157-55-39-160.search.msn.com
+0 1 1 664 0 0
+-
+crawl-66-249-73-29.googlebot.com
+0 4 4 1925 2 1495865899
+/
+38.100.21.68
+0 1 0 0 1 1493933296
+/
+cpe-70-121-62-157.tx.res.rr.com
+0 1 1 7245 1 1494867693
+/
+host189-114-40-89.serverdedicati.aruba.it
+0 33 33 445316 1 1494682977
+/
+msnbot-207-46-13-44.search.msn.com
+0 9 9 29833 0 0
+-
+msnbot-157-55-39-133.search.msn.com
+0 2 2 218 0 0
+-
+rigby01.embed.ly
+0 1 1 0 0 0
+-
+crawl-66-249-73-10.googlebot.com
+0 1 1 662 0 0
+-
+msnbot-207-46-13-98.search.msn.com
+0 5 4 7636 2 1494019086
+/
+ns352473.ovh.net
+0 1 1 7246 1 1494713582
+/
+ec2-54-188-138-51.us-west-2.compute.amazonaws.com
+0 2 0 226 0 0
+-
+msnbot-40-77-167-178.search.msn.com
+0 1 1 109 0 0
+-
+tor4thepeople3.torexitnode.net
+0 1 1 25160 1 1493635477
+/
+h.voz2.com
+0 1 0 0 0 0
+-
+cpe-72-180-64-29.tx.res.rr.com
+0 69 49 748206 2 1493678478
+/recipes/
+msnbot-40-77-167-93.search.msn.com
+0 8 7 9098 5 1495537118
+/
+msnbot-157-55-39-148.search.msn.com
+0 4 3 7049 1 1494653179
+/
+msnbot-157-55-39-152.search.msn.com
+0 9 9 11460 4 1495454819
+/
+cpe-76-187-159-198.tx.res.rr.com
+0 120 119 1317099 2 1493631228
+/recipes/
+192.185.23.100
+0 307 307 6140 0 0
+-
+www.whois.sc
+0 6 4 14784 2 1495530999
+/
+msnbot-40-77-167-39.search.msn.com
+0 2 2 976 1 1495807831
+/
+msnbot-207-46-13-37.search.msn.com
+0 4 4 2431 1 1495725682
+/
+5.39.46.86
+0 1 1 6975 1 1493980355
+/berry-good-workout-smoothie/
+msnbot-207-46-13-134.search.msn.com
+0 12 10 22507 5 1495364550
+/
+msnbot-207-46-13-42.search.msn.com
+0 12 11 245606 3 1494318684
+/
+msnbot-207-46-13-53.search.msn.com
+0 1 1 666 1 1494505866
+/
+216.218.222.11
+0 1 1 7246 1 1495347042
+/
+rigby03.embed.ly
+0 1 1 16739 0 0
+-
+178.33.168.223
+0 1 1 6772 1 1493980499
+/orange-dream-creamsicle/
+ec2-52-12-121-87.us-west-2.compute.amazonaws.com
+0 2 0 226 0 0
+-
+crawl-66-249-73-30.googlebot.com
+0 1 1 488 0 0
+-
+crawl-66-249-65-244.googlebot.com
+0 1 1 590 0 0
+-
+rigby04.embed.ly
+0 1 1 16739 0 0
+-
+rigby00.embed.ly
+0 1 1 27084 0 0
+-
+sft206.sysms.net
+0 2 2 44951 1 1493647326
+/orange-dream-creamsicle/
+62-210-101-170.rev.poneytelecom.eu
+0 36 20 235551 1 1493648110
+/feed/atom/
+c-98-228-1-126.hsd1.il.comcast.net
+0 34 34 456049 1 1493661061
+/testimonials/
+scan22.sitelock.com
+0 208 167 4222911 8 1495513093
+/search/1/feed/rss2/
+msnbot-40-77-167-139.search.msn.com
+0 1 1 109 0 0
+-
+aip-139.trustwave.com
+0 1 1 25187 1 1494681002
+/
+utdpat241067.utdallas.edu
+0 177 101 736656 1 1493648170
+/recipes/
+msnbot-157-55-39-192.search.msn.com
+0 1 1 109 0 0
+-
+utdpat241062.utdallas.edu
+0 104 57 556017 1 1493656152
+/recipes/
+msnbot-40-77-167-75.search.msn.com
+0 1 1 662 0 0
+-
+12.237.57.35
+0 31 20 353724 1 1495324769
+/recipes/
+smartscan04.sitelock.com
+0 408 316 7565857 13 1495858827
+/search/1/feed/rss2/
+crawl-66-249-73-62.googlebot.com
+0 48 48 77954 17 1495578645
+/
+crawl-66-249-73-56.googlebot.com
+0 61 61 170339 12 1495341657
+/
+msnbot-207-46-13-199.search.msn.com
+0 1 1 109 0 0
+-
+msnbot-157-55-39-31.search.msn.com
+0 1 1 665 1 1494023340
+/
+msnbot-40-77-167-68.search.msn.com
+0 7 5 13208 3 1495665614
+/
+msnbot-207-46-13-161.search.msn.com
+0 3 3 1564 1 1495868842
+/
+201.18.18.173
+0 16 0 2144 2 1495212953
+/
+213.42.162.2
+0 42 42 552695 1 1493661144
+/
+utdpat241066.utdallas.edu
+0 453 350 2575387 2 1493648422
+/
+ec2-50-112-56-0.us-west-2.compute.amazonaws.com
+0 2 0 17829 1 1493699568
+-
+crawl-66-249-65-197.googlebot.com
+0 39 39 124970 10 1495797998
+/
+msnbot-207-46-13-35.search.msn.com
+0 3 3 1687 1 1495867892
+/
+crawl-66-249-65-247.googlebot.com
+0 4 4 1900 1 1495550451
+/
+msnbot-40-77-167-148.search.msn.com
+0 1 1 109 0 0
+-
+rigby02.embed.ly
+0 1 1 6816 1 1493647432
+/berry-good-workout-smoothie/
+freebogatov-4.multisec.no
+0 1 1 25187 1 1494682123
+/
+5-188-232-10.static.x5x-noc.ru
+0 1 1 25168 1 1494582719
+/
+exit0.liskov.tor-relays.net
+0 1 1 25168 1 1495700503
+/
+msnbot-157-55-39-28.search.msn.com
+0 1 1 109 0 0
+-
+msnbot-157-55-39-77.search.msn.com
+0 1 1 491 0 0
+-
+msnbot-157-55-39-145.search.msn.com
+0 3 3 1568 1 1495505618
+/
+msnbot-157-55-39-155.search.msn.com
+0 1 1 586 1 1495702377
+/
+msnbot-40-77-167-26.search.msn.com
+0 15 14 61842 5 1494495390
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-73-31.googlebot.com
+0 1 1 665 0 0
+-
+crawl-66-249-73-29.googlebot.com
+0 1 1 584 1 1495865899
+/
+192.185.23.100
+0 6 6 120 0 0
+-
+crawl-66-249-73-30.googlebot.com
+0 1 1 488 0 0
+-
+smartscan04.sitelock.com
+0 29 21 597444 1 1495858827
+/search/1/feed/rss2/
+msnbot-207-46-13-161.search.msn.com
+0 2 2 972 1 1495868842
+/
+msnbot-207-46-13-35.search.msn.com
+0 3 3 1687 1 1495867892
+/
+msnbot-157-55-39-28.search.msn.com
+0 1 1 109 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://smoothiedash.site/wp-content/plugins/all-in-one-seo-pack/css/aiosp_admin.css
+0 2
+http://smoothiedash.site/orange-dream-creamsicle/
+0 19
+http://smoothiedash.site/wp-admin/update-core.php
+0 7
+http://smoothiedash.site/category/workout/
+0 8
+http://www.google.com/url
+0 501
+http://pizza-tycoon.com/
+0 2
+http://smoothiedash.site/rss
+0 4
+http://smoothiedash.site/wp-content/plugins/ml-slider/assets/metaslider/global.css
+0 12
+http://smoothiedash.site/wp-admin/admin.php
+0 11
+http://smoothiedash.site/wp-admin/admin-ajax.php
+0 2
+https://www.google.com/
+0 3
+- (Direct Request)
+0 831
+http://smoothiedash.site/wp-content/themes/vantage/fontawesome/css/font-awesome.css
+0 40
+http://smoothiedash.site/recipes/
+0 95
+http://www.bing.com
+0 1
+http://smoothiedash.site/wp-admin/post.php
+0 54
+http://smoothiedash.site/
+0 671
+http://smoothiedash.site/wp-login.php
+0 2
+http://smoothiedash.site/wp-admin/load-styles.php
+0 4
+http://burger-imperia.com/
+0 3
+http://smoothiedash.site/wp-admin/index.php
+0 47
+http://smoothiedash.site/feed
+0 4
+http://smoothiedash.site/wp-content/plugins/siteorigin-panels/css/admin.css
+0 2
+http://smoothiedash.site/category/dessert/
+0 6
+http://smoothiedash.site/tdee-calculator/
+0 4
+http://smoothiedash.site/wp-cron.php
+0 305
+http://smoothiedash.site/wp-content/plugins/wpforms-lite/assets/css/admin-menu.css
+0 12
+http://smoothiedash.site/berry-good-workout-smoothie/
+0 119
+http://smoothiedash.site/wp-admin/edit.php
+0 91
+http://smoothiedash.site/atom
+0 4
+http://whois.domaintools.com/smoothiedash.site
+0 4
+http://smoothiedash.site/green-tea-blueberry-and-banana/
+0 22
+http://smoothiedash.site/wp-admin/update.php
+0 2
+http://smoothiedash.site/tag/swolebrahamlincoln/
+0 3
+http://smoothiedash.site/banana-blueberry-soy-smoothie/
+0 20
+http://smoothiedash.site/testimonials/
+0 32
+http://smoothiedash.site/sitemap.xml
+0 2
+http://smoothiedash.site/wp-content/themes/vantage/style.css
+0 128
+http://smoothiedash.site/contact-us/
+0 67
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30;
+0 2
+Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 16
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 501
+WordPress/4.7.4; http://smoothiedash.site
+0 307
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 34
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 287
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9b5) Gecko/2008050509 Firefox/3.0b5
+0 1
+Mozilla/5.0 (compatible; Embedly/0.2; snap; +http://support.embed.ly/)
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0
+0 1
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 283
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 189
+Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1; .NET CLR 3.0.04506.30)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 6
+Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9b5) Gecko/2008032600 SUSE/2.9.95-25.1 Firefox/3.0b5
+0 3
+Go-http-client/1.1
+0 36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .
+0 1
+Googlebot-Image/1.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+0 224
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+0 42
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1
+0 33
+Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile S
+0 1
+Mozilla/5.0 (compatible; Embedly/0.2; +http://support.embed.ly/)
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 1
+Disqus/1.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 9
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 5
+Mozilla/5.0 (compatible; Dataprovider.com;)
+0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 589
+Mozilla/5.0 (compatible; ips-agent)
+0 14
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/58.0.3029.83 Mobile/1
+0 36
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) splash Safari/538.1
+0 33
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+0 87
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 69
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+0 282
+Mozilla/5.0 (X11; U; Linux i686; es-AR; rv:1.9b5) Gecko/2008041514 Firefox/3.0b5
+0 2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

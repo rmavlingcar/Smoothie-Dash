@@ -1,0 +1,479 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201705 will be lost/reset.
+# Last config file used to build this data file was /home4/smoothiedash/tmp/awstats/awstats.smoothiedash.site.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2698                
+POS_VISITOR 9325                
+POS_DAY 11445               
+POS_DOMAIN 3479                
+POS_LOGIN 3853                
+POS_ROBOT 4008                
+POS_WORMS 4410                
+POS_EMAILSENDER 4541                
+POS_EMAILRECEIVER 4684                
+POS_SESSION 12177               
+POS_SIDER 12387               
+POS_FILETYPES 4819                
+POS_DOWNLOADS 5145                
+POS_OS 5501                
+POS_BROWSER 5706                
+POS_SCREENSIZE 6142                
+POS_UNKNOWNREFERER 6216                
+POS_UNKNOWNREFERERBROWSER 6766                
+POS_ORIGIN 6965                
+POS_SEREFERRALS 7107                
+POS_PAGEREFS 7275                
+POS_SEARCHWORDS 7481                
+POS_KEYWORDS 7633                
+POS_MISC 2362                
+POS_ERRORS 7692                
+POS_CLUSTER 3709                
+POS_SIDER_404 7839                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170527071319 60 12522 10832737645697
+FirstTime 20170501014705
+LastTime 20170527070722
+LastUpdate 20170527164626 60 0 60 0 0
+TotalVisits 284                 
+TotalUnique 48                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 51                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 2 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 140 8 23 92896
+1 17 44 445538 11 16 41028
+2 13 13 24589 15 20 17946
+3 13 13 310 15 19 40706
+4 307 445 8678304 217 381 6225632
+5 11 11 220 13 19 38467
+6 25 28 213665 25 33 203310
+7 37 47 500298 12 33 113668
+8 12 12 25388 19 25 243894
+9 88 127 1364690 8 12 25567
+10 15 15 39147 15 17 50456
+11 12 12 240 14 14 13370
+12 126 203 1942272 13 15 7257
+13 310 520 3127240 17 19 42456
+14 135 200 1001033 27 28 58674
+15 8 8 160 12 12 7021
+16 94 186 1344118 36 39 24343
+17 46 134 1479723 22 32 62543
+18 53 74 501461 15 16 22140
+19 17 17 234191 13 18 60159
+20 9 9 180 12 27 101149
+21 15 15 300 17 37 75799
+22 42 48 587085 24 38 88080
+23 19 43 353964 16 22 22104
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 1367 2110 20204545
+fr 24 24 241149
+ca 13 13 283621
+ae 12 42 552695
+ro 7 34 452561
+nl 3 3 21737
+ru 1 1 25168
+pl 1 1 7246
+gb 1 1 25160
+jp 1 1 25187
+no 1 1 25187
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 291 609603 20170527061819 23
+spider 193 4661578 20170527042029 0
+bot[\s_+:,\.\;\/\\-] 185 494083 20170527071319 26
+googlebot\-image 4 82752 20170511190900 0
+unknown 3 342 20170521222126 3
+msnbot\-media 1 6671 20170512231805 0
+netcraft 1 25168 20170510101059 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+xml 10 10232 0 0
+php 438 670358 0 0
+Unknown 28 258837 0 0
+woff2 54 3875040 0 0
+gif 2 8324 0 0
+css 241 1262591 0 0
+woff 163 417304 0 0
+png 102 2340957 0 0
+xsl 1 6583 0 0
+ttf 12 17748 0 0
+html 726 8758088 0 0
+jpg 103 1703152 0 0
+js 347 2530873 0 0
+svg 4 4169 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+//wp-content/plugins/ml-slider/readme.txt 27 0 632185
+//wp-content/plugins/siteorigin-panels/readme.txt 27 0 494829
+//wp-content/plugins/w3-total-cache/readme.txt 27 0 1040607
+//wp-content/plugins/disqus-comment-system/readme.txt 27 0 426195
+/wp-content/plugins/google-sitemap-generator/sitemap.xsl 1 0 6583
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+win7 434 293
+ios_iphone 36 26
+macosx 1026 599
+winxp 3 3
+winnt 264 128
+win8.1 35 6
+linux 76 22
+linuxandroid 1 1
+winlong 1 1
+Unknown 355 352
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+msie10.0 1 1
+chrome58.0.3029.81 350 176
+chrome37.0.2062.120 5 5
+msie8.0 2 2
+msie6.0 1 1
+firefox3.0 1 1
+chrome45.0.2454.94 1 1
+msie9.0 428 287
+chrome30.0.1599.66 2 2
+firefox50.0 1 1
+chrome34.0.1847.116 1 1
+firefox47.0 1 1
+chrome27.0.1453.90 3 3
+safari 102 38
+msie7.0 1 1
+safari10.1 282 138
+firefox30.0 1 1
+Unknown 328 328
+chrome37.0.2049.0 1 1
+mozilla 27 24
+chrome57.0.2987.133 692 418
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WordPress/4.7.4;_http://smoothiedash.site 20170527070722
+Mozilla/5.0_(compatible;_Embedly/0.2;_snap;__http://support.embed.ly/) 20170501140354
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170521222142
+Mozilla/5.0_(compatible;_ips-agent) 20170502194140
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20170513031403
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20170501140352
+Disqus/1.0 20170501093241
+Go-http-client/1.1 20170501141510
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20170501141510
+Disqus/1.0 20170501093241
+WordPress/4.7.4;_http://smoothiedash.site 20170527070722
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 70 73
+From1 0 0
+From2 291 432
+From3 5 5
+From4 1065 1721
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 290 431
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://burger-imperia.com 3 3
+http://pizza-tycoon.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+405 10 420
+302 5 20
+403 42 108119
+301 69 409
+406 4 904
+404 105 1688596
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 27
+/green-tea-blueberry-and-banana/a,c.defer=c.type= 1 -
+/sitemap_index.xml 10 -
+/th1s_1s_a_4o4.html 27 -
+/wp-content/plugins/siteorigin-panels/inc/css/front-legacy.css 18 http://www.google.com/url
+/tag/quickeasy/a,c.defer=c.type= 1 -
+/wp-content/plugins/siteorigin-panels/inc/js/a,c.defer=c.type= 1 -
+/category/dessert/a,c.defer=c.type= 1 -
+/category/workout/a,c.defer=c.type= 1 -
+/wp-content/plugins/siteorigin-panels/inc/css/a,c.defer=c.type= 1 -
+/testimonials/a,c.defer=c.type= 1 -
+/a 1 -
+/wp-content/plugins/siteorigin-panels/inc/js/styling-25.min.js 3 http://www.google.com/url
+/wp-content/plugins/siteorigin-panels/inc/css/front-flex.css 2 -
+/banana-blueberry-soy-smoothie/a,c.defer=c.type= 1 -
+/contact-us/a,c.defer=c.type= 2 -
+/about:blank 1 -
+/tag/swolebrahamlincoln/a,c.defer=c.type= 4 -
+/wp-content/themes/vantage/inc/mobilenav/js/a,c.defer=c.type= 1 -
+/sample-page 1 -
+/recipes/a,c.defer=c.type= 3 -
+/google39058b0e42a5d501.html 1 -
+/berry-good-workout-smoothie/a,c.defer=c.type= 5 -
+/a,c.defer=c.type= 10 -
+/wp-content/themes/vantage/inc/mobilenav/js/+mobileNav.search.url+ 2 -
+/tag/yumyum/a,c.defer=c.type= 1 -
+/author/smoothiedash/a,c.defer=c.type= 1 -
+/.rss 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 51
+192.185.23.100 307 307 6140 20170527070722 20170527054604 /wp-cron.php
+129.110.241.66 298 453 2575387 20170501142722
+129.110.241.67 87 177 736656 20170501141610
+129.110.241.65 80 156 1650143 20170503125513
+76.187.159.198 79 118 1317079 20170501093348
+184.154.36.168 76 114 1983449 20170526042837
+184.154.36.164 76 118 2603516 20170523041812
+184.154.139.22 65 96 2082494 20170519041732
+68.8.16.93 61 100 1047276 20170516122749
+129.110.241.62 50 104 556017 20170501162912
+72.180.64.29 43 69 748206 20170501224118
+184.154.36.167 42 65 1350953 20170527042026
+184.154.36.166 28 35 823813 20170518041626
+172.58.111.29 26 36 492853 20170501074607
+62.210.101.170 20 20 212911 20170501141510
+158.69.225.33 13 13 283621 20170521222144
+213.42.162.2 12 42 552695 20170501175224
+69.58.178.56 10 10 234051 20170502194140
+97.77.48.34 9 39 497617 20170503225150
+12.237.57.35 7 31 353724 20170520235929
+89.40.114.189 6 33 445316 20170513134257
+184.72.204.92 6 33 445318 20170519015309
+98.228.1.126 5 34 456049 20170501175101
+54.165.132.164 1 1 25168 20170523123130
+204.13.201.139 1 1 25187 20170513131002
+45.55.224.77 1 1 7258 20170513131531
+193.90.12.89 1 1 25187 20170513132843
+91.121.83.118 1 1 7246 20170513221302
+216.218.222.11 1 1 7246 20170521061042
+178.217.187.39 1 1 7246 20170524123449
+178.33.168.223 1 1 6772 20170505103459
+149.202.72.198 1 1 7245 20170503072702
+146.185.144.64 1 1 7246 20170519060346
+54.204.20.250 0 1 16739 
+54.190.156.60 1 1 24349 20170504024659
+70.121.62.157 1 1 7245 20170515170133
+54.204.20.249 1 1 6816 20170501140352
+54.225.104.196 0 1 16739 
+93.115.95.202 1 1 7245 20170523043134
+46.182.106.190 1 1 7245 20170522174329
+5.39.46.86 1 1 6975 20170505103235
+54.184.2.245 1 1 25187 20170502042144
+150.70.173.56 1 1 25187 20170513134509
+54.221.199.147 0 1 27084 
+149.56.223.241 1 1 25168 20170525082143
+139.162.243.165 1 1 7246 20170511140643
+173.193.17.200 1 1 22303 20170501093241
+65.19.167.130 1 1 7245 20170522223326
+5.188.232.10 1 1 25168 20170512095159
+66.249.90.222 1 1 70 20170513031403
+51.15.43.205 1 1 25160 20170501104437
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20170501 719 1245 9826541 26
+20170502 31 33 500470 10
+20170503 76 121 1343109 13
+20170504 21 29 386988 10
+20170505 29 35 385845 13
+20170506 18 21 199073 8
+20170507 15 18 294744 5
+20170508 21 27 407327 10
+20170509 20 26 410621 7
+20170510 18 25 353234 7
+20170511 27 32 286005 10
+20170512 23 26 259160 11
+20170513 31 67 887728 16
+20170514 20 25 238947 11
+20170515 16 18 271517 5
+20170516 86 129 1288978 10
+20170517 15 18 245621 7
+20170518 20 22 326129 11
+20170519 32 63 862657 16
+20170520 32 60 598423 11
+20170521 36 40 633983 10
+20170522 26 30 361352 12
+20170523 26 32 422733 11
+20170524 21 25 317858 10
+20170525 18 18 118817 11
+20170526 19 25 285600 8
+20170527 15 21 350796 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 9
+30s-2mn 7
+1h+ 11
+15mn-30mn 11
+30mn-1h 40
+2mn-5mn 3
+0s-30s 202
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 61
+/wp-cron.php 305 6100 212 211
+/ 252 1583980 64 25
+/wp-content/themes/vantage/icons/vantage-icons.woff 136 187680 0 0
+/wp-admin/admin-ajax.php 110 13271 2 2
+/recipes/ 85 925935 0 8
+/testimonials/ 76 706890 0 1
+/berry-good-workout-smoothie/ 57 577385 3 3
+/wp-content/themes/vantage/fontawesome/fonts/fontawesome-webfont.woff2 54 3875040 0 1
+/search/1/feed/rss2/ 27 960778 0 25
+/webmail 27 242568 0 1
+/contact-us/ 27 418220 0 0
+/green-tea-blueberry-and-banana/ 21 324150 0 0
+/orange-dream-creamsicle/ 20 306481 2 2
+/banana-blueberry-soy-smoothie/ 18 295006 0 0
+/tag/quickeasy/ 15 290325 0 0
+/feed/ 14 179020 0 0
+/wp-content/plugins/ml-slider/assets/fonts/metaslider.ttf 12 17748 0 0
+/wp-content/plugins/wpforms-lite/assets/fonts/wpforms-menu.woff 12 12576 0 0
+/wp-json/ 12 627516 0 0
+/category/dessert/ 12 209066 0 0
+/wp-content/plugins/optinmonster/assets/fonts/archie.woff 12 34080 0 0
+/tag/vitaminc/ 12 226152 0 0
+/category/workout/ 11 229377 0 1
+/comments/feed/ 11 33781 0 0
+/tag/swolebrahamlincoln/ 10 181270 0 0
+/wp-admin/load-styles.php 3 202729 0 0
+/wp-includes/wlwmanifest.xml 8 8360 0 0
+/tag/vitaminc/feed/ 2 7970 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/a%2Cc.defer%3Dc.type%3D/ 1 16647 0 0
+/wp-content/plugins/siteorigin-panels/css/icons/panels-icons.woff 1 2680 0 0
+/wp-admin/update.php 1 6573 0 0
+/wp-admin/index.php 2 40825 0 0
+/wp-content/themes/vantage/fontawesome/fonts/fontawesome-webfont.woff 2 180288 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/styling-25.min.js/ 1 16629 0 0
+/orange-dream-creamsicle/feed/ 2 2367 0 1
+/wp-admin/load-scripts.php 4 180693 0 0
+/wp-admin/post.php 1 70392 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/a%2Cc.defer%3Dc.type%3D/feed/rss2/ 1 1514 0 0
+/wp-admin/update-core.php 2 28196 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/css/front-legacy.css/feed/rss2/ 1 1508 0 0
+/search/1/ 5 174919 0 0
+/tag/yumyum/ 10 190250 0 0
+/author/smoothiedash/ 5 143470 0 0
+/sitemap.xml 2 1872 0 0
+/google2a8b101cdc182d79.html 1 70 1 1
+/banana-blueberry-soy-smoothie/feed/ 1 975 0 0
+/tag/swolebrahamlincoln/feed/ 2 8085 0 0
+/feed/atom/ 4 54108 0 1
+/wp-login.php 3 3660 0 0
+/search/1/a,c.defer=c.type= 1 16269 0 0
+/search/1/a%2Cc.defer%3Dc.type%3D/feed/rss2/ 1 1388 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/a%2Cc.defer%3Dc.type%3D/a%2Cc.defer%3Dc.type%3D/ 1 16827 0 0
+/tag/yumyum/feed/ 1 4144 0 0
+/wp-admin/admin.php 1 13779 0 0
+/berry-good-workout-smoothie/feed/ 1 963 0 0
+/category/dessert/feed/ 1 4150 0 0
+/wp-admin/edit.php 6 104140 0 0
+/search/wp-content/plugins/siteorigin-panels/inc/js/styling-25.min.js/feed/rss2/ 1 1508 0 0
+/tag/quickeasy/feed/ 2 8970 0 0
+/search/1/a%2Cc.defer%3Dc.type%3D/ 1 16269 0 0
+/category/workout/feed/ 1 10025 0 0
+END_SIDER
